@@ -5,8 +5,8 @@
 In this players have to throw their phone up and catch or simply shake the phone. More the phone reaches toward sky or more the shake is given by players to their phones more they will get score.
 <br>
 <h1>Starting Guide</h1>
-1.Just simply download the .apk file from debug folder and copy inside the android phone.
-2.Install the .apk file and give permissions if ask any.
+1.Just simply download the .apk file from debug folder and copy inside the android phone.<br>
+2.Install the .apk file and give permissions if ask any.<br>
 3.After installing and you are good to go with game.
 <br>
 <h1>Screenshots</h1>
@@ -37,5 +37,7 @@ In this players have to throw their phone up and catch or simply shake the phone
 <h3>Language of implementation</h3>
 * Java
 <br>
-Developed by Jaspreet Singh
+
+# Auther
+ Jaspreet Singh
 <br>
