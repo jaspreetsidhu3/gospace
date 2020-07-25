@@ -30,7 +30,7 @@ In this players have to throw their phone up and catch or simply shake the phone
 <br>
 <h1>Note</h1>
 <br>
-<p>1.Be calm while throwing phone up and make you catch it safely</p>
+<p>1.Be calm while throwing phone up and make sure you catch it safely.. 😂🤞</p>
 <br>
 <b>ENJOY YOUR GAME</b>
 </br>
