@@ -1,11 +1,13 @@
 # GoSpace-beta
 (Early-Access)
+
+<h1>About</h1>
+In this players have to throw their phone up and catch or simply shake the phone. More the phone reaches toward sky or more the shake is given by players to their phones more they will get score.
 <br>
-Developed by Jaspreet Singh
-<br>
-Language of implementation- Java + Xml
-<h1>Readme</h1>
-A simply and lite game in which players have to throw their phone up and catch or simply shake the phone. More the phone reaches toward sky or more the shake is given by players to their phones more they will get score.
+<h1>Starting Guide</h1>
+1.Just simply download the .apk file from debug folder and copy inside the android phone.
+2.Install the .apk file and give permissions if ask any.
+3.After installing and you are good to go with game.
 <br>
 <h1>Screenshots</h1>
 <center>Welcome to your Game</center>
@@ -31,3 +33,9 @@ A simply and lite game in which players have to throw their phone up and catch o
 <p>1.Be calm while throwing phone up and make you catch it safely</p>
 <br>
 <b>ENJOY YOUR GAME</b>
+</br>
+<h3>Language of implementation</h3>
+* Java
+<br>
+Developed by Jaspreet Singh
+<br>
