@@ -1,8 +1,11 @@
-# GoSpace-beta
-(Early-Access)
+<div align="center">
+<h1 align="center"> GoSpace
+
+ </h1>
+</div>
 
 <h3>About</h3>
-In this players have to throw their phone up and catch or simply shake the phone. More the phone reaches toward sky or more the shake is given by players to their phones more they will get score.
+Android Game where players have to throw their phone up and catch or simply shake the phone, more the phone reaches toward sky or more the shake is given by players to their phones more they will get score.
 <br>
 <h3>Starting Guide</h3>
 1.Just simply download the .apk file from debug folder and copy inside the android phone.<br>
