@@ -25,7 +25,7 @@ Android Game where players have to throw their phone up and catch or simply shak
 <br>
 <p>1.Be calm while throwing phone up and make sure you catch it safely.. 😂🤞</p>
 <br>
-<b>ENJOY YOUR GAME</b>
+
 </br>
 
 <h3>Language of implementation</h3>
@@ -36,3 +36,4 @@ Android Game where players have to throw their phone up and catch or simply shak
 # Developed by
  Jaspreet Singh
 <br>
+<b>ENJOY YOUR GAME</b>
