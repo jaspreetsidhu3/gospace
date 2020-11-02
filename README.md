@@ -10,24 +10,14 @@ In this players have to throw their phone up and catch or simply shake the phone
 3.After installing and you are good to go with game.
 <br>
 <h3>Screenshots</h3>
-<center>Welcome to your Game</center>
 <div>
-<h3>Splashscreen</h3>
 <img src="./screenshot/1.jpg" width=130/>
-
-<h3>HomeScreen</h3>
-
 <img src="./screenshot/2.jpg" width=130/>
-<br>
-<center>Press start button</center>
-<h3>InGame</h3>
 <img src="./screenshot/3.jpg" width=130/>
-<h3>HighScore</h3>
-<center>Get your HighScore</center>
-<br>
 <img src="./screenshot/4.jpg" width=130/>
 </div>
 <br>
+
 <h3>Note</h3>
 <br>
 <p>1.Be calm while throwing phone up and make sure you catch it safely.. 😂🤞</p>
