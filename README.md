@@ -24,10 +24,12 @@ In this players have to throw their phone up and catch or simply shake the phone
 <br>
 <b>ENJOY YOUR GAME</b>
 </br>
+
 <h3>Language of implementation</h3>
 * Java
+
 <br>
 
-# Auther
+# Developed by
  Jaspreet Singh
 <br>
