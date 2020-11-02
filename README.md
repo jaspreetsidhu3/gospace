@@ -27,7 +27,7 @@ Android Game where players have to throw their phone up and catch or simply shak
 </p>
 
 <h3>Language of implementation</h3>
-* Java
+Java
 
 # Developed by
  Jaspreet Singh
